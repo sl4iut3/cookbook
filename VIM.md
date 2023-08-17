@@ -4,9 +4,9 @@
 
 ## symbole fermant
 
-'''
+```
 inoremap ( ()<Left>
-'''
+```
 
 ## à la sauce IDE
 dans un bloc vide entouré d'accolades, au changement de ligne, changer de ligne et mettre l'accolade fermante en dessous
