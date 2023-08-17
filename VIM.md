@@ -5,7 +5,7 @@
 ## symbole fermant
 
 ```
-inoremap ( ()<Left>
+   inoremap ( ()<Left>
 ```
 
 ## à la sauce IDE
