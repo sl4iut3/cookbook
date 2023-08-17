@@ -4,9 +4,7 @@
 
 ## symbole fermant
 
-```
-   inoremap ( ()<Left>
-```
+    inoremap ( ()<Left>
 
 ## à la sauce IDE
 dans un bloc vide entouré d'accolades, au changement de ligne, changer de ligne et mettre l'accolade fermante en dessous
@@ -20,6 +18,6 @@ dans un bloc vide entouré d'accolades, au changement de ligne, changer de ligne
 
 ## incrémenter une série
 
-passer la séquence en Visual, puis `g1<c-a>` pour incrémenter (augmenter de 1!!). `<C-x>è pour décrémenter.
+passer la séquence en Visual, puis `g1<c-a>` pour incrémenter (augmenter de 1!!). `<C-x>` pour décrémenter.
 
 
